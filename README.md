@@ -1,3 +1,16 @@
+Functional for uploading images and video links with Google sign in 
+https://linkedin-clone-e4423.web.app
+
+React JS application built using Redux and Firebase.
+1. Handles authentication with Firebase
+2. Login with Google account
+3. Allows for uploading images to Firebase Storage 
+4. Real-time database with Firebase’s Firestore
+5. Created components with Styled Components
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
